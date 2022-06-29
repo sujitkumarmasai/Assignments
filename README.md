@@ -1,2 +1,0 @@
-# Assignments
-Some DSA problem
